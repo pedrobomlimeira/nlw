@@ -12,8 +12,8 @@
     align-items: center;
 
     transition: 400ms;
-
 }
+
 #modal.hide {
     display: none;
 }
@@ -22,14 +22,12 @@
     color: white;
 
     width: 420px;
-
 }
 
 #modal .header {
     display: flex;
     align-items: center;
     justify-content: space-between;
-
 
     margin-bottom: 48px;
 }
